@@ -1,3 +1,15 @@
+sedvit.art {
+
+        root * /opt/blogmaker/posts
+
+        encode gzip
+
+        php_fastcgi / /run/php/php7.3-fpm.sock
+
+        file_server
+
+}
+
 #h 
 I have been watching the vanderpump rules finale and I am grateful for the open communication efforts and exposure, but I can't help but feel 30 thousand feet above their pettiness... and it's not about the alcohol consumption or materialism... i see so much jealousy and unspoken emotion in Ariana, and instead of loving her friends for having the capacity to love Her and eachtother, she is condemning them. That is weak. That is Americana. If all those young celebs stop projecting their low EQ monogomous practices onto eachother there would be much less shame and hate being depicted. But then who would need the xanax they are *all* shilling, right?
 
