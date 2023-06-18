@@ -1,3 +1,14 @@
+    sedvit.art {
+    
+    root * /opt/blogmaker/posts
+
+    encode gzip
+
+    php_fastcgi / /run/php/php7.3-fpm.sock
+
+    file_server
+    }
+
 :cupid: I feel called to research ECC [eliptical curve cryptography](https://blockchainhippy.io/2020/06/23/forking/). My background in psychedelics, pgp and trap artistry are some of the tools I'll use to research. I could conduct hands on experiments to expand my electromagnegtic field within the ethereum ecosystem. I have a passion for math and incentivizing myself to succeed by making wizard-like internet personas [objects](https://antilop.cc/sr/users/selfsovereignty/threads/20121227-0612-I_fantasize_about_having_sex_with_you_people.html) of my desire. 
 
 I volunteered at ETH Prague this week. It was re-invigorating. I am determined to focus my energy on ethereum research because of my unique position and diverse set of blobs for network outreach:  
